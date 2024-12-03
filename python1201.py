@@ -14,3 +14,4 @@ print(a is b)  # True (a와 b는 같은 객체를 가리킴)
 t = (1, 2, 3)
 d = {t: "Hello"}
 print(d)
+print(dict(d))
