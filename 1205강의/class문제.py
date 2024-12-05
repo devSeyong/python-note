@@ -30,17 +30,17 @@ print('k3.speed:', k3.speed)
 # 4. 각 인스턴스 변수를 출력할 함수를 만든다. ( 출력형태는 자유)
 # 5. 인스턴스를 만들어 함수를 호출해본다.
 
-#내가 푼 정답
-# class Human:
-#     def __init__(self,name,gender,age):
-#         self.name = name
-#         self.gender = gender
-#         self.age = age
+내가 푼 정답
+class Human:
+    def __init__(self,name,gender,age):
+        self.name = name
+        self.gender = gender
+        self.age = age
 
-# seyong = Human("세용","남",33)
-# misuk = Human("미숙","여",60)
+seyong = Human("세용","남",33)
+misuk = Human("미숙","여",60)
 
-# print(seyong.name, seyong.gender, seyong.age)
+print(seyong.name, seyong.gender, seyong.age)
 
 #강사님 정답
 class Human:
