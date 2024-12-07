@@ -1,0 +1,9 @@
+https://paullabworkspace.notion.site/Python-c20c452099dc46f4895019df86cb317b?pvs=4
+
+김승주 강사님 파이썬 기초 강의 링크
+
+코딩문제 백준 사이트 문제 풀어보기
+구현 자료구조 문자열 풀어보기 그다음 수학 ,정렬, 브루트포스 알고리즘  순서
+
+이호준 강사님 파이썬 강의 링크
+https://www.books.weniv.co.kr/pro-python
