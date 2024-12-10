@@ -1,2 +1,2 @@
-numbers = str(123456789)
-print(numbers[0:9])
+a = input("입력해주세요 : ")
+print(a*2)
